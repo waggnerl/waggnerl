@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Wagber Lira, a **Senior Frontend Engineer** based out of Brazil. Having around 2 years of experience in full-stack web development.
+I am Wagner Lira, a **Senior Frontend Engineer** based out of Brazil. Having around 2 years of experience in full-stack web development.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammad-adeel-9ba19951/](https://www.linkedin.com/in/wagner-lira/))
 
